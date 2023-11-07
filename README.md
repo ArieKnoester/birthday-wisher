@@ -1,7 +1,7 @@
 # birthday-wisher
 
 A small program created as part of a Python course to introduce the
-smptplib module. 
+smtplib module. 
 
 This program automates emailing people on their birthday. Birthday 
 data is stored in a csv file. The program checks to see if there are
